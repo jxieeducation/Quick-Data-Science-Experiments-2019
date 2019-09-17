@@ -2,7 +2,10 @@
 
 
 ### To DO
-* privacy best standards? 
+* Shallow Self-Learning for Reject Inference in Credit Scoring (https://www.ecmlpkdd2019.org/downloads/paper/730.pdf)
+* Deep Landscape Forecasting in RTB (https://arxiv.org/pdf/1905.03028.pdf)
+* RNN w/ Survival Analysis (http://www.saying.ren/slides/drsa.pdf)
+* bregman divergence
 * curriculum learning
 * dilated CNN
 * SEQL algo 
@@ -12,10 +15,8 @@
 * CNN with word location
 * spacy neuralcoref
 * temporal convolutional networks
-* 
+* normalized discounted cumulative gain, a eval metric
 
 
 ### Done
 * 
-
-
