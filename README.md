@@ -21,4 +21,4 @@
 
 
 ### Done
-* 
+* Bayesian Summary (http://faculty.washington.edu/kenrice/BayesIntroClassEpi2018.pdf)
